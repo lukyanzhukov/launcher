@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="offset_8">8dp</dimen>
+    <dimen name="item_pokemon_image_size">50dp</dimen>
+    <dimen name="ic_fail_size">80dp</dimen>
+</resources>
